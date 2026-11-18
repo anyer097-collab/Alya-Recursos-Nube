@@ -1,0 +1,16 @@
+{
+  "canal": 15,
+  "versionName": "3.10.3",
+  "versionCode": 100,
+  "apkFile": "Alya-Agent-v15.apk",
+  "downloadUrl": "https://github.com/anyer097-collab/Alya-Recursos-Nube/releases/download/apk-latest/Alya-Agent-v15.apk",
+  "permanentUrl": "https://github.com/anyer097-collab/Alya-Recursos-Nube/releases/download/apk-latest/Alya-Agent.apk",
+  "sha256": "746266352877ff1e117802654051414e007a1f517b9cc17cfd9bfbc9c1c3d035",
+  "md5": "f27228855c705c6f00b6cfaa267b2c16",
+  "sizeBytes": 35733214,
+  "changelog": "3.10.3 (vc100, v15): Filtro completo de emojis, selectores Unicode invisibles y normalización de espacios/puntuación antes de enviar al generador de voz (Fish Audio y Android TTS) para eliminar ruidos, suspiros, gemidos y risas raras.",
+  "apk": "https://github.com/anyer097-collab/Alya-Recursos-Nube/releases/download/apk-latest/Alya-Agent-v15.apk",
+  "apk_estable": "https://github.com/anyer097-collab/Alya-Recursos-Nube/releases/download/apk-latest/Alya-Agent.apk",
+  "tamano": 35733214,
+  "notas": "3.10.3 (vc100, v15): Filtro completo de emojis, selectores Unicode invisibles y normalización de espacios/puntuación antes de enviar al generador de voz (Fish Audio y Android TTS) para eliminar ruidos, suspiros, gemidos y risas raras."
+}
