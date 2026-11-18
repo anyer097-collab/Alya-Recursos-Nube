@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "revision": 34,
+  "nombre": "Mascota v34 — medio cuerpo",
+  "motorMin": 1,
+  "motorMax": 1,
+  "release": "mascota-recursos-v34",
+  "archivo": "mascota-v34-recursos.zip",
+  "sha256": "b8c7bdbf2a8827f2296595adc95ff73bb3f24fef45ec9d67d0b0e26a5b34beb8",
+  "tamano": 38983497,
+  "notas": "Recursos del personaje en medio cuerpo: imágenes de cuerpo, expresiones, boca, parpadeo y gestos compatibles."
+}
