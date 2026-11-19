@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "nombre": "Mascota Alya · rostro y cuerpo",
+  "motorMin": 1,
+  "motorMax": 1,
+  "release": "mascota-estaticos-v1",
+  "archivo": "mascota-estaticos-v1.zip",
+  "sha256": "32d942316062c5102f86ca2f53333581a048a5103cd8a6c7c885d4f249d79645",
+  "tamano": 12196082,
+  "notas": "Imágenes para los tres modos de la mascota."
+}
